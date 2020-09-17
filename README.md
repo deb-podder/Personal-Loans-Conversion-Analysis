@@ -16,17 +16,29 @@ Description of the variables
 · ID: Customer ID
 
 · Age: Customer’s age in completed years
+
 · Experience: #years of professional experience
+
 · Income: Annual income of the customer ($000)
+
 · ZIP Code: Home Address ZIP code.
+
 · Family: the Family size of the customer
+
 · CCAvg: Avg. spending on credit cards per month ($000)
+
 · Education: Education Level. 1: Advanced/Professional, 2: Graduate, 3: Undergrad
+
 · Mortgage: Value of house mortgage if any. ($000)
+
 · Personal Loan: Did this customer accept the personal loan offered in the last campaign?
+
 · Securities Account: Does the customer have securities account with the bank?
+
 · CD Account: Does the customer have a certificate of deposit (CD) account with the bank?
+
 · Online: Do customers use internet banking facilities?
+
 · Credit card: Does the customer use a credit card issued by UniversalBank?
 
 ## TECHNIQUES/MODELS USED :
