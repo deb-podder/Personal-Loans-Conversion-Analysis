@@ -12,7 +12,9 @@ As per the last campaign done by the financial institution for the liability cus
 There are 13 independent variables and 1 dependent variable i.e. ‘Personal Loan’ in the data set. Last year campaign was conducted on 5000 liability customers. So, there are 5000 rows which can be split into test & train datasets.
 
 Description of the variables
+
 · ID: Customer ID
+
 · Age: Customer’s age in completed years
 · Experience: #years of professional experience
 · Income: Annual income of the customer ($000)
