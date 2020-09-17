@@ -42,6 +42,9 @@ Description of the variables
 · Credit card: Does the customer use a credit card issued by UniversalBank?
 
 ## TECHNIQUES/MODELS USED :
+
 Logistic Regression
+
 Random Forest Classifier
+
 SMOTE Technique
